@@ -106,7 +106,7 @@ header .header-cases{
 .index-banner{
     width: 100%;
     height:calc(100vh - 100px);
-    background-image: url(/assets/img/laptop.jpg);
+    background-image: url(../img/laptop.jpg);
     background-blend-mode: overlay;
     background-color: gainsboro;
     background-repeat: no-repeat;
